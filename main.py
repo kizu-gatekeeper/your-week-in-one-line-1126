@@ -1,4 +1,7 @@
-"""Entry for make.fun: Your Week in One Line."""
+"""Entry for make.fun: Your Week in One Line.
+
+The win, the fail and the compromise, in under 100 characters.
+"""
 import os
 
 LINE = "Monday I fixed the bug, Tuesday the bug fixed me, Friday we compromised: it ships broken, quietly."
